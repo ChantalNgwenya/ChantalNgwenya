@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chantal Nosipho Ngwenya</h1>
 <h3 align="center">A passionate Web developer from South Africa</h3>
 
-- 🔭 I’m currently working on [My potfolio](https://github.com/ChantalNgwenya/thusang_app)
+- 🔭 I’m currently working on [My potfolio](#)
 
 - 🌱 I’m currently learning **SQLite, Wordpress and Elemento**
 
