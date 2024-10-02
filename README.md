@@ -1,4 +1,4 @@
-![](ChantalNgwenya/images/mywelcome.gif)
+![](images/mywelcome.gif)
 
 <h1 align="center">Hi 👋, I'm Chantal Nosipho Ngwenya</h1>
 <h3 align="center">A passionate Web developer from South Africa</h3>
