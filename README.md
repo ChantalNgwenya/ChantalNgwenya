@@ -1,6 +1,6 @@
 ![](images/mywelcome.gif)
 
-<h1 align="center">Hi 👋, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=3000&color=D6F1F7&center=true&width=447&lines=Chantal+Nosipho+Ngwenya)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi 👋, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=3000&color=D6F1F7&center=true&width=447&lines=Chantal+Nosipho+Ngwenya" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Web developer from South Africa</h3>
 
 - 🔭 I’m currently working on [My potfolio](#)
