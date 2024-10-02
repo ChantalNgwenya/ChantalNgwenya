@@ -1,15 +1,14 @@
 ![](images/mywelcome.gif)
 
-<h1 align="center">Hi 👋, I'm</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=3000&color=D6F1F7&center=true&width=447&lines=Chantal+Nosipho+Ngwenya" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=6000&color=E0F7F7&center=true&repeat=false&width=700&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Chantal+Nosipho+Ngwenya" alt="Typing MY name" /></a></h1>
 <h3 align="center">A passionate Web developer from South Africa</h3>
 
 - 🔭 I’m currently working on [My potfolio](#)
 
 - 🌱 I’m currently learning **SQLite, Wordpress and Elemento**
 
-- 👯 I’m looking to collaborate on [Thusang App](https://github.com/ChantalNgwenya/thusang_app)
+- 👯 I’m looking to collaborate on projects that can impact you.
 
-- 🤝 I’m looking for help with **Understanding React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChantalNgwenya](https://github.com/ChantalNgwenya)
 
