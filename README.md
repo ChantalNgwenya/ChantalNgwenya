@@ -1,7 +1,7 @@
 ![](images/mywelcome.gif)
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=6000&color=E0F7F7&center=true&repeat=false&width=700&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Chantal+Nosipho+Ngwenya" alt="Typing MY name" /></a></h1>
-<h3 align="center">A passionate Web developer from South Africa</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=6000&color=E0F7F7&center=true&repeat=false&width=700&height=110&lines=Hi+%F0%9F%91%8B%2C+I'm+Chantal+Nosipho+Ngwenya" alt="Typing MY name" /></a></h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&pause=6000&color=E56EF7&center=true&width=900&height=100&lines=A+Web+%26+App+Developer+in+the+making.;This+is+my+roadmap+to+becoming+a+Full+stack+Developer.;A+hunter+of+new+things+to+learn." alt="Typing SVG" /></a></h3>
 
 - 🔭 I’m currently working on [My potfolio](#)
 
