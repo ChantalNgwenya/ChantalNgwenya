@@ -3,25 +3,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=6000&color=E0F7F7&center=true&repeat=false&width=700&height=110&lines=Hi+%F0%9F%91%8B%2C+I'm+Chantal+Nosipho+Ngwenya" alt="Typing MY name" /></a></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&pause=6000&color=E56EF7&center=true&width=900&height=100&lines=A+Web+%26+App+Developer+in+the+making.;This+is+my+roadmap+to+becoming+a+Full+stack+Developer.;A+hunter+of+new+things+to+learn." alt="Typing SVG" /></a></h3>
 
-- 🔭 I’m currently working on [My potfolio](#)
-
-- 🌱 I’m currently learning **SQLite, Wordpress and Elemento**
-
-- 👯 I’m looking to collaborate on projects that can impact you.
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/ChantalNgwenya](https://github.com/ChantalNgwenya)
-
-- 📝 I regularly write articles on [https://github.com/ChantalNgwenya](https://github.com/ChantalNgwenya)
-
-- 💬 Ask me about **Python, CSS, Javascript and Google Calendar Api**
-
-- 📫 How to reach me **ngwenyachantalnosipho@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/ChantalNgwenya](https://github.com/ChantalNgwenya)
-
-- ⚡ Fun fact **I like staring the clouds, and end up seeing diffrent shapes and animals.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/chantal-nosipho-ngwenya-1ab319271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chantal-nosipho-ngwenya-1ab319271" height="30" width="40" /></a>
