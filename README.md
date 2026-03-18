@@ -43,7 +43,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,ubuntu,git,linux" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,ts,express,firebase,mongodb,bash,java,nextjs,mysql,postgres" />
-    <img src="https://skillicons.dev/icons?i=docker,sass,postman,selinum,wordpress,azure,vue,figma,powershell,sqlite,vim,vitest" />
+    <img src="https://skillicons.dev/icons?i=docker,sass,postman,sellinum,wordpress,azure,vue,figma,powershell,sqlite,vim,vitest" />
     <br>
 </div>
 
