@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&pause=6000&color=E56EF7&center=true&width=800&height=100&lines=A+Web+%26+App+Developer+in+the+making.;This+is+my+roadmap+to+becoming+a+Full+stack+Developer.;A+hunter+of+new+things+to+learn." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&pause=6000&color=B9D9EB&center=true&width=800&height=100&lines=A+%26+Developer+in+action.;This+is+my+roadmap+to+becoming+a+Full+stack+Developer.;A+hunter+of+new+things+to+learn." alt="Typing SVG" />
   </a>
 </h3>
 
@@ -72,7 +72,7 @@
       align="right" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantalNgwenya&theme=tokyonight&layout=compact&custom_title=Most Used Languages&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantalNgwenya&theme=tokyonight&layout=compact&custom_title=Used Languages&langs_count=9" 
   />
 
 </p>
