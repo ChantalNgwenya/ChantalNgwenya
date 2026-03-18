@@ -70,7 +70,7 @@
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantalNgwenya&theme=tokyonight&layout=compact&custom_title=Most Used Languages&langs_count=10" 
