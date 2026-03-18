@@ -68,11 +68,11 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ChantalNgwenya&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-<img 
+<!-- <img 
       align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantalNgwenya&theme=tokyonight&layout=compact&custom_title=Used Languages&langs_count=9" 
-  />
+  /> -->
 
 </p>
